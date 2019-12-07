@@ -7,6 +7,6 @@ public class App {
     }
 
     private void start() {
-        new Simulation();
+        new Simulation().start();
     }
 }
