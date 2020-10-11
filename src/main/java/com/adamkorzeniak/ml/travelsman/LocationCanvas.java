@@ -1,4 +1,6 @@
-package com.adamkorzeniak.ml;
+package com.adamkorzeniak.ml.travelsman;
+
+import com.adamkorzeniak.ml.World;
 
 import java.awt.*;
 import java.util.List;
